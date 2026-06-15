@@ -1,0 +1,136 @@
+{
+  "n_nodes": 412,
+  "n_edges": 8960,
+  "n_communities": 11,
+  "modularity": 0.2091527822333989,
+  "chi2_stat": 82.52504842384525,
+  "chi2_p": 2.397400976148639e-08,
+  "chi2_dof": 24,
+  "assortativity_language": 0.02675683680044367,
+  "top_degree": [
+    [
+      "gradio-app/gradio",
+      0.40145985401459855
+    ],
+    [
+      "kyegomez/swarms",
+      0.35523114355231145
+    ],
+    [
+      "bee-san/Ciphey",
+      0.35279805352798055
+    ],
+    [
+      "bitsandbytes-foundation/bitsandbytes",
+      0.35036496350364965
+    ],
+    [
+      "pathwaycom/llm-app",
+      0.34793187347931875
+    ],
+    [
+      "microsoft/LoRA",
+      0.34793187347931875
+    ],
+    [
+      "2FastLabs/agent-squad",
+      0.34793187347931875
+    ],
+    [
+      "vercel/ai",
+      0.34063260340632606
+    ],
+    [
+      "yamadashy/repomix",
+      0.33819951338199516
+    ],
+    [
+      "gorse-io/gorse",
+      0.33576642335766427
+    ]
+  ],
+  "top_betweenness": [
+    [
+      "scikit-learn-contrib/imbalanced-learn",
+      0.05506947927847965
+    ],
+    [
+      "gradio-app/gradio",
+      0.04818130258888162
+    ],
+    [
+      "CMU-Perceptual-Computing-Lab/openpose",
+      0.04123682548304541
+    ],
+    [
+      "amusi/awesome-object-detection",
+      0.03916503533118163
+    ],
+    [
+      "bitsandbytes-foundation/bitsandbytes",
+      0.03789899827052342
+    ],
+    [
+      "ageitgey/face_recognition",
+      0.036721532373797286
+    ],
+    [
+      "huggingface/transformers",
+      0.03232229508732999
+    ],
+    [
+      "flwrlabs/flower",
+      0.031243079974260884
+    ],
+    [
+      "ZuzooVn/machine-learning-for-software-engineers",
+      0.030980114480458183
+    ],
+    [
+      "EthicalML/awesome-production-machine-learning",
+      0.03052353998564426
+    ]
+  ],
+  "top_eigenvector": [
+    [
+      "gradio-app/gradio",
+      0.09387483480129906
+    ],
+    [
+      "vercel/ai",
+      0.09303018244945611
+    ],
+    [
+      "bee-san/Ciphey",
+      0.0928610756987541
+    ],
+    [
+      "gorse-io/gorse",
+      0.09285108166364403
+    ],
+    [
+      "py-why/dowhy",
+      0.0927990238784799
+    ],
+    [
+      "yamadashy/repomix",
+      0.09269272308832811
+    ],
+    [
+      "argoproj/argo-workflows",
+      0.09252098382797241
+    ],
+    [
+      "mikel-brostrom/boxmot",
+      0.09248184783522852
+    ],
+    [
+      "replicate/cog",
+      0.09230180165323315
+    ],
+    [
+      "flwrlabs/flower",
+      0.09215509688690662
+    ]
+  ]
+}
