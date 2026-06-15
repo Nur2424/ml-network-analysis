@@ -221,3 +221,5 @@ __marimo__/
 .env
 data/raw/
 .ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
