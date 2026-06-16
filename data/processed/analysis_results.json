@@ -6,7 +6,7 @@
   "chi2_stat": 82.52504842384525,
   "chi2_p": 2.397400976148639e-08,
   "chi2_dof": 24,
-  "assortativity_language": 0.02675683680044367,
+  "assortativity_language": 0.026756836800443832,
   "top_degree": [
     [
       "gradio-app/gradio",
